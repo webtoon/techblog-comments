@@ -1,2 +1,1 @@
-# techblog-comments
-Repository for techblog comments
+# Repository for techblog comments
